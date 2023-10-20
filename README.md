@@ -23,7 +23,7 @@ Into full-stack web app development with dev experience both in corporate and st
 ### Next.js with Supabase
 
 - A React app to demo Supabase's capabilties.
-- Built with <u>Next.js, Supabase, PostgreSQL, and NextUI</u>.
+- Built with <u>Next.js, Supabase, SQL, and NextUI</u>.
 - Tools with no vendor lock-in.
 
 ### An all-Google product
