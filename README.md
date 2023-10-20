@@ -1,6 +1,6 @@
 # Gianfranco
 
-Into full-stack web application development with dev experience both in corporate and startup environments.
+Into full-stack web app development with dev experience both in corporate and startup environments.
 
 ## Socials
 
@@ -9,33 +9,28 @@ Into full-stack web application development with dev experience both in corporat
 
 ## Projects
 
-### Developer portfolio
+### Developer website
 
-- Single page static website built with vanilla programming languages
-- Built with HTML, CSS, and JavaScript. Hosted on GitHub Pages.
-- Source Code
-- Live Demo
+- A static page built with vanilla programming languages.
+- Built with <u>JavaScript, HTML, and CSS</u>. Hosted using <u>GitHub Pages</u>.
 
 ### Another reading list
 
-- Next.js app with pages created from Markdown (MDX)
-- Built with Next.js, TypeScript, Tailwind CSS, Jest, Cypress, and MDX. MDX lets you write pages using Markdown.
-- Source Code
-- Live Demo
+- A <u>React</u> app with pages created from <u>Markdown (MDX)</u>.
+- Built with <u>Next.js, TypeScript, Tailwind CSS, Jest, Cypress, and MDX</u>.
+- MDX lets you write pages using Markdown.
 
 ### Next.js with Supabase
 
-- A no vendor lock-in web app
-- A single page web app to demo Supabase's capabilities. Built with tools that does not lock you in the platform: Next.js, Supabase, PostgreSQL, and NextUI.
-- Source Code
-- Live Demo
+- A React app to demo Supabase's capabilties.
+- Built with <u>Next.js, Supabase, PostgreSQL, and NextUI</u>.
+- Tools with no vendor lock-in.
 
 ### An all-Google product
 
-- The name speaks for itself ;)
-- A single page web app to demo Firebase's capabilities. Built with Google products: Firebase and MUI.
-- Source Code
-- Live Demo
+- A React app to demo Firebase's capabilities.
+- Built with <u>Firebase and MUI</u>.
+- Tools made by Google.
 
 ## Experience
 
