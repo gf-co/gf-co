@@ -23,7 +23,7 @@ All projects made in a month.
 ### Another reading list
 
 - A <u>React</u> app with pages created from <u>Markdown (MDX)</u>.
-- Built with <u>Next.js, TypeScript, Tailwind CSS, Jest, Cypress, and MDX</u>.
+- Built with <u>Next.js, TypeScript, Tailwind CSS, SASS/CSS, Jest, Cypress, and MDX</u>.
 - MDX lets you write pages using Markdown.
 - With simple unit and real-world simulation test.
 - [Source code](https://github.com/gf-co/another-book-list-website)
