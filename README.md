@@ -8,6 +8,7 @@ Let's connect!
 
 - [LinkedIn](https://www.linkedin.com/in/gf-co/)
 - [GitHub](https://github.com/gf-co)
+- gf.co.code@gmail.com
 
 ## Projects
 
