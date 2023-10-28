@@ -57,4 +57,4 @@ All projects made in a month.
   - Learned about bioinformatics. Mostly played with Bash scripts in a Linux server.
 - University of the Philippines Visayas
   - BS in Computer Science (4 years)
-  - Nothing to say here. ;)
+  - :)
