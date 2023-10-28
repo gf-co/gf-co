@@ -48,7 +48,7 @@ All projects made in a month.
 
 - Sta. Clara International Corporation
   - Software Developer (1 year)
-  - Mainly worked on developing a web app using Next.js, Supabase, PostgreSQL, TypeScript, SASS/CSS, and a bit of Firebase.
+  - Mainly worked on developing a web app using Next.js, Supabase, PostgreSQL, JavaScript/TypeScript, SASS/CSS, and a bit of Firebase.
 - Accenture
   - Software Developer (1.5 years)
   - Mainly worked on developing internal business APIs using Oracle Middleware products (BPEL, SOAP)
