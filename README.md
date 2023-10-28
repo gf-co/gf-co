@@ -32,7 +32,7 @@ All projects made in a month.
 
 - A React app to demo Supabase's capabilities.
 - Built with <u>Next.js, Supabase, SQL, and NextUI</u>.
-- Tools with no vendor lock-in.
+- Tools without vendor lock-in.
 - [Source code](https://github.com/gf-co/nextjs-with-supabase)
 - [Live demo](https://nextjs-with-supabase-nine-zeta.vercel.app/)
 
