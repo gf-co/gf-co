@@ -32,7 +32,7 @@ All projects made in a month.
 ### Next.js with Supabase
 
 - A React app to demo Supabase's capabilities.
-- Built with <u>Next.js, Supabase, PostgreSQL, NextUI, and TypeScript</u>.
+- Built with <u>Next.js, Supabase, PostgreSQL, NextUI, TypeScript, and SASS/CSS</u>.
 - Tools without vendor lock-in.
 - [Source code](https://github.com/gf-co/nextjs-with-supabase)
 - [Live demo](https://nextjs-with-supabase-nine-zeta.vercel.app/)
