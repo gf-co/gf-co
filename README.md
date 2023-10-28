@@ -52,7 +52,7 @@ All projects made in a month.
   - Mainly worked on developing a web app using Next.js, Supabase, PostgreSQL, JavaScript/TypeScript, SASS/CSS, and a bit of Firebase.
 - [Accenture](https://www.accenture.com/)
   - Software Developer (1.5 years)
-  - Mainly worked on developing internal business APIs using Oracle Middleware products (BPEL, SOAP)
+  - Mainly worked on developing internal business APIs using Oracle Middleware products (BPEL, SOAP).
 - [Philippine Genome Center](https://pgc.up.edu.ph/)
   - Intern (2 months)
   - I learned about bioinformatics. I mostly played with Bash scripts on a Linux server.
