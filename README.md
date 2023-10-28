@@ -55,7 +55,7 @@ All projects made in a month.
   - Mainly worked on developing internal business APIs using Oracle Middleware products (BPEL, SOAP)
 - Philippine Genome Center
   - Intern (2 months)
-  - Learned about bioinformatics. Mostly played with Bash scripts in a Linux server.
+  - I learned about bioinformatics. I mostly played with Bash scripts on a Linux server.
 - University of the Philippines Visayas
   - BS in Computer Science (4 years)
   - :)
