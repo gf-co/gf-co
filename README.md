@@ -16,7 +16,7 @@ All projects made in a month.
 ### Developer website
 
 - A static page built with vanilla programming languages.
-- Built with <u>JavaScript, HTML, and CSS</u>, hosted using <u>GitHub Pages</u>.
+- Built with <u>JavaScript, HTML, and SASS/CSS</u>, hosted using <u>GitHub Pages</u>.
 - [Source code](https://github.com/gf-co/gf-co.github.io)
 - [Live demo](https://gf-co.github.io/)
 
@@ -31,7 +31,7 @@ All projects made in a month.
 ### Next.js with Supabase
 
 - A React app to demo Supabase's capabilities.
-- Built with <u>Next.js, Supabase, SQL, and NextUI</u>.
+- Built with <u>Next.js, Supabase, PostgreSQL, NextUI, and TypeScript</u>.
 - Tools without vendor lock-in.
 - [Source code](https://github.com/gf-co/nextjs-with-supabase)
 - [Live demo](https://nextjs-with-supabase-nine-zeta.vercel.app/)
@@ -48,7 +48,7 @@ All projects made in a month.
 
 - Sta. Clara International Corporation
   - Software Developer (1 year)
-  - Mainly worked on developing a web app using Next.js, Supabase, PostgreSQL, TypeScript, CSS, and a bit of Firebase.
+  - Mainly worked on developing a web app using Next.js, Supabase, PostgreSQL, TypeScript, SASS/CSS, and a bit of Firebase.
 - Accenture
   - Software Developer (1.5 years)
   - Mainly worked on developing internal business APIs using Oracle Middleware products (BPEL, SOAP)
