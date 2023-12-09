@@ -12,7 +12,14 @@ Let's connect!
 
 ## Projects
 
-All projects made in a month.
+All projects are made approximately in a month.
+
+### Terminal ChatGPT
+
+- Access paid models like GPT-4 on demand in the terminal—an alternative to the ChatGPT Plus monthly subscription.
+- Built with <u>Node.js</u>.
+- [Source code](https://github.com/gf-co/terminal-chat-gpt)
+- [Demo Video](https://github.com/gf-co/terminal-chat-gpt)
 
 ### Developer website
 
