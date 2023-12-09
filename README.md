@@ -12,7 +12,7 @@ Let's connect!
 
 ## Projects
 
-All projects are made approximately in a month.
+All projects were made approximately in a month.
 
 ### Terminal ChatGPT
 
