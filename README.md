@@ -56,7 +56,7 @@ All projects were made approximately in a month.
 ## Experience
 
 - [Sta. Clara International Corporation](https://staclara.com.ph/)
-  - Web App Developer (1 year)
+  - Full Stack Web App Developer (1 year)
   - Mainly worked on developing a web app using Next.js, Supabase, PostgreSQL, JavaScript/TypeScript, SASS/CSS, and a bit of Firebase.
 - [Accenture](https://www.accenture.com/)
   - Software Developer (1.5 years)
