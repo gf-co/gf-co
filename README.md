@@ -6,8 +6,8 @@ Into full-stack web app development with dev experience in corporate and startup
 
 Let's connect!
 
+- [Portfolio](https://gf-co.github.io)
 - [HackerRank](https://www.hackerrank.com/profile/gf_co_code)
-- [GitHub](https://github.com/gf-co)
 - gf.co.code@gmail.com
 
 ## Projects
