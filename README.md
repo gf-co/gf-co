@@ -34,6 +34,7 @@ All projects were made approximately in a month.
 - Built with <u>Next.js, TypeScript, Tailwind CSS, SASS/CSS, Jest, Cypress, and MDX</u>.
 - MDX lets you write pages using Markdown.
 - With simple unit and real-world simulation test.
+- No remote backend.
 - [Source code](https://github.com/gf-co/another-book-list-website)
 - [Live demo](https://another-book-list-website.vercel.app/)
 
