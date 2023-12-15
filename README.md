@@ -25,7 +25,7 @@ All projects were made approximately in a month.
 
 ### Developer website
 
-- A static page built with vanilla programming languages.
+- A static page using vanilla programming languages.
 - Built with <u>JavaScript, HTML, and SASS/CSS</u>, hosted using <u>GitHub Pages</u>.
 - [Source code](https://github.com/gf-co/gf-co.github.io)
 - [Live demo](https://gf-co.github.io/)
