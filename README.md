@@ -59,13 +59,13 @@ All projects were made approximately in a month.
 ## Experience
 
 - [Sta. Clara International Corporation](https://staclara.com.ph/)
-  - Full Stack Web App Developer (1 year)
+  - Full Stack Web App Developer (Mar 2022 - Apr 2023 · 1 yr 2 mos)
   - Mainly worked on developing a web app using Next.js, Supabase, PostgreSQL, JavaScript/TypeScript, SASS/CSS, and a bit of Firebase.
 - [Accenture](https://www.accenture.com/)
-  - Software Developer (1.5 years)
+  - Software Developer (Mar 2019 - Oct 2020 · 1 yr 8 mos)
   - Mainly worked on developing internal business APIs using Oracle Middleware products (BPEL, SOAP).
 - [Philippine Genome Center](https://pgc.up.edu.ph/)
-  - Intern (2 months)
+  - Intern (1 month)
   - I learned about bioinformatics. I mostly played with Bash scripts on a Linux server.
 - [University of the Philippines Visayas](https://www.upv.edu.ph/)
   - BS in Computer Science (4 years)
