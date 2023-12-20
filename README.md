@@ -7,6 +7,7 @@ Into full-stack web app development with dev experience in corporate and startup
 Let's connect!
 
 - [Portfolio](https://gf-co.github.io)
+- [LinkedIn](https://www.linkedin.com/in/gfco)
 - [Upwork](https://www.upwork.com/freelancers/~01ffd771f5852e6363)
 - [Fiverr](https://www.fiverr.com/gf_co_dev)
 - [HackerRank](https://www.hackerrank.com/profile/gf_co_code)
