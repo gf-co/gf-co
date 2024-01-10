@@ -24,34 +24,41 @@ All projects were made approximately in a month.
 - [Source code](https://github.com/gf-co/terminal-chat-gpt)
 - [Demo Video](https://github.com/gf-co/terminal-chat-gpt)
 
-### Portfolio website
+### Portfolio Website
 
-- Website without using frameworks.
+- To showcase web dev skills without using frameworks.
 - JavaScript • HTML • SASS/CSS
 - [Source code](https://github.com/gf-co/gf-co.github.io)
 - [Live demo](https://gf-co.github.io/)
 
 ### Another reading list
 
-- A React app with pages created from Markdown (MDX).
+- To showcase familiarity with basic testing and MDX.
 - Next.js/React • JavaScript/TypeScript • Tailwind CSS • SASS/CSS • Jest • Cypress • MDX • HTML
-- MDX lets you write pages using Markdown.
 - [Source code](https://github.com/gf-co/another-book-list-website)
 - [Live demo](https://another-book-list-website.vercel.app/)
 
 ### Next.js with Supabase
 
-- A React app to demo Supabase's capabilities.
+- To showcase my full stack web dev skills and familiarity with Supabase.
 - Next.js/React • Supabase • PostgreSQL/SQL • NextUI • JavaScript/TypeScript • SASS/CSS • HTML
 - [Source code](https://github.com/gf-co/nextjs-with-supabase)
 - [Live demo](https://nextjs-with-supabase-nine-zeta.vercel.app/)
 
 ### An all-Google product
 
-- A React app to demo Firebase's capabilities.
+- To showcase my familiarity with MUI and Firebase.
 - React • Firebase • NoSQL • MUI/Material UI • JavaScript/TypeScript • HTML
 - [Source code](https://github.com/gf-co/all-google-product)
 - [Live demo](https://all-googly-product.firebaseapp.com/)
+
+## Certifications
+
+- Certificate of Language Ability (TrueNorth by Rosetta Stone)
+- TrueNorth • 10.0
+- CEFR • C2
+- [Language Assessment Scoring Guide](https://blog.emmersion.ai/a-beginners-guide-to-language-assessmentscoring)
+<img width="300" alt="Certificate of Language Ability issued by TrueNorth of Rosetta Stone" src="https://github.com/gf-co/gf-co/assets/145439449/64604e09-4e01-448d-8207-03d2127df5e4">
 
 ## Experience
 
