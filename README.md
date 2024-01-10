@@ -19,7 +19,7 @@ All projects were made approximately in a month.
 
 ### Terminal ChatGPT
 
-- Access paid models like GPT-4 on demand in the terminal—an alternative to the ChatGPT Plus monthly subscription.
+- To showcase my familiarity with accessing third party APIs and Node.js.
 - Node.js • JavaScript • OpenAI API
 - [Source code](https://github.com/gf-co/terminal-chat-gpt)
 - [Demo Video](https://github.com/gf-co/terminal-chat-gpt)
