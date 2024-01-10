@@ -20,54 +20,50 @@ All projects were made approximately in a month.
 ### Terminal ChatGPT
 
 - Access paid models like GPT-4 on demand in the terminal—an alternative to the ChatGPT Plus monthly subscription.
-- Built with <u>Node.js and OpenAI API</u>.
+- Node.js • JavaScript • OpenAI API
 - [Source code](https://github.com/gf-co/terminal-chat-gpt)
 - [Demo Video](https://github.com/gf-co/terminal-chat-gpt)
 
-### Developer website
+### Portfolio website
 
-- A static page using vanilla programming languages.
-- Built with <u>JavaScript, HTML, and SASS/CSS</u>, hosted using <u>GitHub Pages</u>.
+- Website without using frameworks.
+- JavaScript • HTML • SASS/CSS
 - [Source code](https://github.com/gf-co/gf-co.github.io)
 - [Live demo](https://gf-co.github.io/)
 
 ### Another reading list
 
-- A <u>React</u> app with pages created from <u>Markdown (MDX)</u>.
-- Built with <u>Next.js, TypeScript, Tailwind CSS, SASS/CSS, Jest, Cypress, and MDX</u>.
+- A React app with pages created from Markdown (MDX).
+- Next.js/React • JavaScript/TypeScript • Tailwind CSS • SASS/CSS • Jest • Cypress • MDX • HTML
 - MDX lets you write pages using Markdown.
-- With simple unit and real-world simulation test.
-- No remote backend.
 - [Source code](https://github.com/gf-co/another-book-list-website)
 - [Live demo](https://another-book-list-website.vercel.app/)
 
 ### Next.js with Supabase
 
 - A React app to demo Supabase's capabilities.
-- Built with <u>Next.js, Supabase, PostgreSQL, NextUI, TypeScript, and SASS/CSS</u>.
-- Tools without vendor lock-in.
+- Next.js/React • Supabase • PostgreSQL/SQL • NextUI • JavaScript/TypeScript • SASS/CSS • HTML
 - [Source code](https://github.com/gf-co/nextjs-with-supabase)
 - [Live demo](https://nextjs-with-supabase-nine-zeta.vercel.app/)
 
 ### An all-Google product
 
 - A React app to demo Firebase's capabilities.
-- Built with <u>Firebase and MUI</u>.
-- Tools made by Google.
+- React • Firebase • NoSQL • MUI/Material UI • JavaScript/TypeScript • HTML
 - [Source code](https://github.com/gf-co/all-google-product)
 - [Live demo](https://all-googly-product.firebaseapp.com/)
 
 ## Experience
 
 - [Sta. Clara International Corporation](https://staclara.com.ph/)
-  - Full Stack Web App Developer (1 yr 2 mos)
-  - Mainly worked on developing a web app using Next.js, Supabase, PostgreSQL, JavaScript/TypeScript, SASS/CSS, and a bit of Firebase.
+  - Full Stack Web Developer (1 yr 2 mos)
+  - I mainly worked on developing a web app using Next.js, Supabase, PostgreSQL, JavaScript/TypeScript, SASS/CSS, and a bit of Firebase.
 - [Accenture](https://www.accenture.com/)
   - Software Developer (1 yr 8 mos)
-  - Mainly worked on developing internal business APIs using Oracle Middleware products (BPEL, SOAP).
+  - I mainly worked on developing internal business APIs using Oracle Middleware products (BPEL, SOAP).
 - [Philippine Genome Center](https://pgc.up.edu.ph/)
   - Intern (1 month)
   - I learned about bioinformatics. I mostly played with Bash scripts on a Linux server.
 - [University of the Philippines Visayas](https://www.upv.edu.ph/)
   - BS in Computer Science (4 years)
-  - :)
+  - (^_^)/
